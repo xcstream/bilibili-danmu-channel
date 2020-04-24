@@ -1,0 +1,15 @@
+{
+  "name": "bilibili-danmu-channel",
+  "version": "1.0.0",
+  "description": "get bilibli live danmu in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bilibili-live-ws": "^4.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
