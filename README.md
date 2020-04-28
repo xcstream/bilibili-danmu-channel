@@ -15,3 +15,6 @@
         }
     })()
 ```
+
+具体内容格式参考
+https://github.com/xcstream/bilibili-danmu-sample
