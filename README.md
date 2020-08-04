@@ -5,6 +5,12 @@
 
 支持短号和输出直播间信息
 
+安装（建议node.js版本 > v12.0）
+
+`
+    npm i bilibili-danmu-channel
+`
+
 只有一个api:类似管道输出
 
 ```
